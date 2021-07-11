@@ -1,0 +1,90 @@
+{
+    "status": "true",
+    "message": "Data fetched successfully!",
+    "data": [
+        {
+            "id": "1",
+            "name": "Mesh",
+            "country": "Switzerland",
+            "city": "Basel",
+            "imgURL": "https://i.imgur.com/cdl6gif.jpg"
+        },
+        {
+            "id": "2",
+            "name": "Vrishabh",
+            "country": "Spain",
+            "city": "Madrid",
+            "imgURL": "https://i.imgur.com/J6FJgbj.jpg"
+        },
+        {
+            "id": "3",
+            "name": "Mithun",
+            "country": "Serbia",
+            "city": "Monaco",
+            "imgURL": "https://i.imgur.com/UNrFcJS.jpg"
+        },
+        {
+            "id": "4",
+            "name": "Kark",
+            "country": "United Kingdom",
+            "city": "London",
+            "imgURL": "https://i.imgur.com/ehZSz5R.jpg"
+        },
+        {
+            "id": "5",
+            "name": "Singh",
+            "country": "Russia",
+            "city": "Moscow",
+            "imgURL": "https://i.imgur.com/titf6Wi.jpg"
+        },
+        {
+            "id": "6",
+            "name": "Kanya",
+            "country": "Denmark",
+            "city": "Odense",
+            "imgURL": "https://i.imgur.com/JU3wFiM.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Tula",
+            "country": "Canada",
+            "city": " Montreal",
+            "imgURL": "https://i.imgur.com/G445BNJ.jpg"
+        },
+        {
+            "id": "8",
+            "name": "Vrishchik",
+            "country": "Serbia",
+            "city": "Belgrade",
+            "imgURL": "https://i.imgur.com/PV5F8xR.jpg"
+        },
+		{
+            "id": "9",
+            "name": "Dhanu",
+            "country": "Serbia",
+            "city": "Belgrade",
+            "imgURL": "https://i.imgur.com/DM97KFx.jpg"
+        },
+		{
+            "id": "10",
+            "name": "Maker",
+            "country": "Serbia",
+            "city": "Belgrade",
+            "imgURL": "https://i.imgur.com/WJANyHd.jpg"
+        },
+		{
+            "id": "11",
+            "name": "Kumbh",
+            "country": "Serbia",
+            "city": "Belgrade",
+            "imgURL": "https://i.imgur.com/xnJkx9H.jpg"
+        },
+		{
+            "id": "12",
+            "name": "Meen",
+            "country": "Serbia",
+            "city": "Belgrade",
+            "imgURL": "https://i.imgur.com/0Be2Jn5.jpg"
+        }
+    ]
+}
