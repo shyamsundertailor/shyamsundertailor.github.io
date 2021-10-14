@@ -6,49 +6,49 @@
             "id": "1",
             "name": "मेष (चू, चे, चो, ला, ली, लू, ले, लो, आ)",
             "country": "हे ! गणेशा तुम्हे प्रणाम, तुम ही सजीव प्रत्यक्ष रूप हो, तुम ही कमम और कता भी तुम ही हो, तुम ही धारण करने वाले, और तुम ही हरण करने वाले संहारी हो । तुम में ही समस्त ब्रह्माण व्याप्त हैं तुम्ही एक पववत्र साक्षी हो।",
-            "city": "Basel",
+            
             "imgURL": "https://i.imgur.com/i3YmoBJ.png"
         },
         {
             "id": "2",
             "name": "Vrishabhhh",
             "country": "Spain",
-            "city": "Madrid",
+            
             "imgURL": "https://i.imgur.com/TUmxTOM.png"
         },
         {
             "id": "3",
             "name": "Mithun",
             "country": "Serbia",
-            "city": "Monaco",
+            
             "imgURL": "https://i.imgur.com/k67hXqC.png"
         },
         {
             "id": "4",
             "name": "Kark",
             "country": "United Kingdom",
-            "city": "London",
+            
             "imgURL": "https://i.imgur.com/8HD7Bji.png"
         },
         {
             "id": "5",
             "name": "Singh",
             "country": "Russia",
-            "city": "Moscow",
+            
             "imgURL": "https://i.imgur.com/0BvKlzB.png"
         },
         {
             "id": "6",
             "name": "Kanya",
             "country": "Denmark",
-            "city": "Odense",
+            
             "imgURL": "https://i.imgur.com/VrofZYo.png"
         },
         {
             "id": "7",
             "name": "Tula",
             "country": "Canada",
-            "city": " Montreal",
+            
             "imgURL": "https://i.imgur.com/mgReNWm.png"
         },
         {
@@ -62,28 +62,28 @@
             "id": "9",
             "name": "Dhanu",
             "country": "Serbia",
-            "city": "Belgrade",
+            
             "imgURL": "https://i.imgur.com/M8YfLCt.png"
         },
 		{
             "id": "10",
             "name": "Maker",
             "country": "Serbia",
-            "city": "Belgrade",
+            
             "imgURL": "https://i.imgur.com/CXtxKQ3.png"
         },
 		{
             "id": "11",
             "name": "Kumbh",
             "country": "Serbia",
-            "city": "Belgrade",
+            
             "imgURL": "https://i.imgur.com/wtrW1FM.png"
         },
 		{
             "id": "12",
             "name": "Meen",
             "country": "Serbia",
-            "city": "Belgrade",
+            
             "imgURL": "https://i.imgur.com/XSf9NBH.png"
         }
     ]
